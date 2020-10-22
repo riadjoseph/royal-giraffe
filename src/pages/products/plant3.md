@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.00'
+price: '199'
 title: Shopify Setup
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/plant3.jpg
