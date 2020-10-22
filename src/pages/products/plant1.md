@@ -1,7 +1,7 @@
 ---
 id: '1'
 price: '49.40'
-title: Audit your site
+title: Audit a site
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
