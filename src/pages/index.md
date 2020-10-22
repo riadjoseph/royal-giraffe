@@ -13,7 +13,7 @@ sections:
         url: /store
         arrow: true
   - type: featured_products_section
-    section_id: best_sellers_section
+    section_id: SEO_section
     title: SEO
     icon: true
     light_title: true
