@@ -1,7 +1,7 @@
 ---
 id: '6'
 price: '100.00'
-title: Conte
+title: 'Content '
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
