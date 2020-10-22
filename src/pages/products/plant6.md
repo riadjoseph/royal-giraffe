@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: 500 / month
+price: 500/month (from)
 title: Content SEO
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
