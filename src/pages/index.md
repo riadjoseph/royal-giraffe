@@ -5,14 +5,9 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    content: >-
+    content: |-
       # SEO & Web
-
-      An SEO and Web Development Boutique Agency in Paris. We're your very own
-      dedicated Webmaster, SEO, Marketing Manager and Online Product Manager. 
-
-
-      Now you can conduct your business while we build in the backend.
+      Your very own dedicate SEO and Web Development Boutique Agency in Paris. 
     actions:
       - title: Services
         url: /store
