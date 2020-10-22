@@ -6,7 +6,6 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/Ask-WebForGood-SEO.png
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
