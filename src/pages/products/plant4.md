@@ -1,6 +1,6 @@
 ---
 id: '4'
-price: '24.99'
+price: '199'
 title: Prepare & Plan
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
