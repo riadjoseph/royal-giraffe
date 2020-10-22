@@ -1,5 +1,5 @@
 ---
-title: Private SEO coaching
+title: Private SEO Coaching
 order: 2
 section: Store
 template: category
