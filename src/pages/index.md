@@ -14,7 +14,7 @@ sections:
 
       Now you can conduct your business while we build in the backend.
     actions:
-      - title: See all items
+      - title: Services you can use
         url: /store
         arrow: true
   - type: featured_products_section
