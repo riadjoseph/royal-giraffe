@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '100.00'
+price: 'From '
 title: Content SEO
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
