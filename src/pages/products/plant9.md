@@ -1,6 +1,6 @@
 ---
 id: '9'
-price: '400.00'
+price: '299'
 title: Technical SEO
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/plant9.jpg
