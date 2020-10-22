@@ -6,7 +6,7 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: >-
-      # SEO and Web
+      # SEO & Web
 
       An SEO and Web Development Boutique Agency in Paris. We're your very own
       dedicated Webmaster, SEO, Marketing Manager and Online Product Manager. 
