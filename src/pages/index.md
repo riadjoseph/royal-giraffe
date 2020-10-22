@@ -6,10 +6,13 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: >-
-      # Real, beautiful plants right to your door
+      # An SEO and Web Development Boutique Agency in Paris
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      We're your very own dedicated Webmaster, SEO, Marketing Manager and Online
+      Product Manager. 
+
+
+      Now you can conduct your business while we build in the backend.
     actions:
       - title: See all items
         url: /store
