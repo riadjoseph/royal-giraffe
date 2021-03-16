@@ -14,7 +14,8 @@ section: Store
 template: product
 default_thumbnail_image: images/plant1-lg.jpg
 ---
+# Audit SEO - 5 jours
 
-# Nulla suscipit
+Un audit SEO complet de votre site web, ecommerce ou web app. 
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
+Vous apprendrez sur votre site quels sont les améliorations à faire au niveau du contenu, de la mise en page, l'expérience utilisateur et le SEO technique. 
