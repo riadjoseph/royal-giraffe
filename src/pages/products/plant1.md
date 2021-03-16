@@ -9,7 +9,7 @@ order: 1
 category: src/pages/category/bigplants.md
 section: Store
 template: product
-default_thumbnail_image: images/plant1-lg.jpg
+default_thumbnail_image: images/Ask-WebForGood-SEO.png
 ---
 # Audit SEO - 5 jours
 
