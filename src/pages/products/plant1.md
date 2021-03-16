@@ -3,7 +3,6 @@ id: '1'
 price: 395
 title: Audit SEO - 5 jours
 description: 'Un audit SEO complet de votre site web, ecommerce ou web app.'
-default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
