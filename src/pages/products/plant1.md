@@ -2,10 +2,7 @@
 id: '1'
 price: '395'
 title: Audit SEO - 5 jours
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: 'Un audit SEO complet de votre site web, ecommerce ou web app.'
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
