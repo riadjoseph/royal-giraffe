@@ -34,7 +34,8 @@
         },
         {
             "title": "About",
-            "url": "/about"
+            "url": "/about",
+            "arrow": true
         },
         {
             "title": "FAQ",
