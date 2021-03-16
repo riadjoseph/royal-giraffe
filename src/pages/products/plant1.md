@@ -8,6 +8,7 @@ order: 1
 category: src/pages/category/bigplants.md
 section: Store
 template: product
+default_thumbnail_image: images/plant1.jpg
 ---
 # Audit SEO - 5 jours
 
