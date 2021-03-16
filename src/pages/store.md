@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: from €149.99
+    subtitle: à partir de €149.99
     image: images/promo.jpg
     cta:
       title: Discover
