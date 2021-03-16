@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49'
+price: '29'
 title: Audit SEO - 5 jours
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
