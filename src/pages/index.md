@@ -14,7 +14,7 @@ sections:
         arrow: true
   - type: featured_products_section
     section_id: SEO_section
-    title: Popular
+    title: Services
     icon: true
     light_title: true
     featured_products:
