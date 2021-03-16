@@ -2,7 +2,7 @@
     "favicon": "images/webforgood-icon.png",
     "logo_dark": "images/webforgood-logo_x200.png",
     "logo_light": "images/Logo_Webforgood.png",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
+    "hamburger_background_image": "images/neat-sparrow.png",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
