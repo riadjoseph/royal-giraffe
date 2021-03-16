@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Ask-WebForGood-SEO.png
+    background_image: images/header.jpg
     content: |-
       # SEO & Web
       Your very own dedicate SEO and Web Development Boutique Agency in Paris. 
