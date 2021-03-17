@@ -47,7 +47,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 15 years of online product management at your service
-    subtitle: à partir de €149.99
+    subtitle: 'Let''s build, rank and convert.'
     image: images/promo.jpg
     cta:
       title: Discover
