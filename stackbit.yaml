@@ -362,6 +362,7 @@ models:
       - type: string
         name: calendly
         label: Call planner
+        URL: https://calendly.com/webf/fr-en
       - type: string
         name: phone
         label: Phone
