@@ -5,6 +5,7 @@ white_header: false
 sections:
   - section_id: contacts
     address: Calendly Call Planner
+    addressURL: 'https://calendly.com/webf/fr-en'
     phone: +33 6 29 15 98 58
     email: riad@webforgood.fr
     mapUrl: 'https://wa.me/33629159858'

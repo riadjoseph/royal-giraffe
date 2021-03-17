@@ -360,8 +360,8 @@ models:
         name: image
         label: Image
       - type: string
-        name: calendly
-        label: Call planner
+        name: address
+        label: Address
         URL: https://calendly.com/webf/fr-en
       - type: string
         name: phone
