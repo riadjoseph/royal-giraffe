@@ -12,8 +12,7 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How long does shipping take?
-        answer: >-
+      - answer: >-
           Now that’s a frequent one all right, ain’t it? Your answer to this
           should *manage customer expectations*. Just like [a good checkout
           flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
