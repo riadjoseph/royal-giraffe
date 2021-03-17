@@ -54,6 +54,6 @@ sections:
     address: 'Saint-Germain-en-Laye, France'
     phone: +33.6.29.15.98.58
     email: riad@webforgood.fr
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://wa.me/33629159858'
 template: advanced
 ---
