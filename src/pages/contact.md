@@ -1,6 +1,6 @@
 ---
 title: contact WebForGood
-page_css_class: contacts
+page_css_class: form
 white_header: false
 sections:
   - section_id: contacts
