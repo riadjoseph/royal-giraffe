@@ -1,7 +1,7 @@
 ---
 id: '8'
 price: '50.00'
-title: Fusce sed
+title: 'Google & Facebook: Ads + Analytics'
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/plant8.jpg
 default_original_image: images/plant8-lg.jpg
