@@ -24,6 +24,7 @@ export default class ContactSection extends React.Component {
                     </svg>
                   </Link>
                   )}
+                  <br/>
                   {_.get(section, 'mapUrl', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'mapUrl', null)}>
                     Send a WhatsApp
