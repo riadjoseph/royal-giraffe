@@ -9,6 +9,7 @@ featured: false
 template: product
 category: src/pages/category/summer.md
 default_thumbnail_image: images/leaf-online-analytics.jpg
+default_original_image: images/leaf-online-analytics.jpg
 ---
 ## Lorem ipsum
 
