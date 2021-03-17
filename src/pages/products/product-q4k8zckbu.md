@@ -1,6 +1,6 @@
 ---
 id: Analytics and Tagging
-title: lorem-ipsum
+title: Tag Manager
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
