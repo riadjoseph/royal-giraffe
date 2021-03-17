@@ -361,7 +361,7 @@ models:
         label: Image
       - type: string
         name: calendly
-        label: Address
+        label: Call planner
       - type: string
         name: phone
         label: Phone
