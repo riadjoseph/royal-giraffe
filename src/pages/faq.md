@@ -47,7 +47,7 @@ sections:
           there, we implement a strategy that starts by auditing what you
           already have.
         question: What is SEO?
-      - question: How do refunds and returns work?
+      - question: How long does it take to start getting results?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
