@@ -1,7 +1,7 @@
 ---
 title: contact
 page_css_class: lorem-ipsum
-white_header: true
+white_header: false
 sections: []
 template: advanced
 ---
