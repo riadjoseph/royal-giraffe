@@ -13,7 +13,7 @@ export default class ContactSection extends React.Component {
                 <p className="faq__contact-subtitle">You might have questions along the lines of "what happens now", "how do I go about this" ...<br/> Let's have a chat.</p>
                 <div className="faq__contact-info-container">
                   <p className="faq__contact-telephone">{_.get(section, 'phone', null)}</p>
-                  <p className="faq__contact-email">{_.get(section, 'email', null)}</p>
+                  
                   <div className="faq__seperator" />
                   {_.get(section, 'addressURL', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'addressURL', null)}>
