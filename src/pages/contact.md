@@ -3,7 +3,7 @@ title: contact
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: contacts
     address: 'Saint-Germain-en-Laye, France'
     phone: +33 6 29 15 98 58
     email: riad@webforgood.fr
