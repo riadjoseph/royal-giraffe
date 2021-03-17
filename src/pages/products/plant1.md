@@ -15,4 +15,4 @@ default_thumbnail_image: images/seo-audit.jpg
 ---
 # Audit SEO - 5 jours
 
-A complete audit of your website, e-commerce ou web app. Vous apprendrez sur votre site quels sont les améliorations à faire au niveau du contenu, de la mise en page, l'expérience utilisateur et le SEO technique.
+A complete audit of your website or e-commerce ou web app. Vous apprendrez sur votre site quels sont les améliorations à faire au niveau du contenu, de la mise en page, l'expérience utilisateur et le SEO technique.
