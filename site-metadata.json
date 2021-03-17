@@ -44,7 +44,7 @@
         },
         {
             "title": "FAQ",
-            "url": "lorem-ipsum",
+            "url": "/faq",
             "arrow": false,
             "type": "action"
         }
