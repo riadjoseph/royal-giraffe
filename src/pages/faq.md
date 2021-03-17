@@ -69,8 +69,7 @@ sections:
           Yes and no. I'll explain: We guarantee what we control, and an
           overnight change of algorithm is not one of them. If you face any SEO
           who guarantees results 100%, ask more questions. 
-      - question: Rapid-fire questions
-        answer: >-
+      - answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
           designer a couple of months ago. <br /><br /> Q: Why did you build a
           theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
