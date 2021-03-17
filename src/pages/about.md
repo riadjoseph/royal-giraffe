@@ -34,7 +34,7 @@ sections:
 
 
           [Reach out](/contact) to talk about it all, and your project. 
-        image: images/team.jpg
+        image: images/example-client-growth.png
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
