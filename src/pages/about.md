@@ -17,7 +17,7 @@ sections:
           ... we also love web & app development, but what we care about the
           most is results for our clients. There's nothing more rewarding. 
         image: images/my-profile-webforgood.jpg
-      - title: We think plants are the future
+      - title: Why should you work with us
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
