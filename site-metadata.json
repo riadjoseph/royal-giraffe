@@ -45,7 +45,7 @@
         {
             "title": "FAQ",
             "url": "/faq",
-            "arrow": false,
+            "arrow": true,
             "type": "action"
         }
     ],
