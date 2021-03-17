@@ -3,7 +3,7 @@ id: Analytics and Tagging
 title: Tag Manager
 description: Google Analytics & Tag Manager
 price: 195/session (from)
-order: 0
+order: 5
 section: Store
 featured: false
 template: product
