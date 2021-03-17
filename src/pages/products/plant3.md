@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '199'
-title: Shopify Setup
+title: E-commerce Coaching Hours
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
