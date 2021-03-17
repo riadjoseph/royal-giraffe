@@ -37,7 +37,7 @@ sections:
         image: images/example-client-growth.png
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Get a fresh perspective
     subtitle: from $149.99
     image: images/time-to-have-a-talk.jpg
     cta:
