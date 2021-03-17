@@ -22,7 +22,7 @@ export default class ContactSection extends React.Component {
                   </Link>
                   )} <div/>
                   <div className="faq__seperator" />
-                  <p>
+                 
                   {_.get(section, 'mapUrl', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'mapUrl', null)}>
                     Send a WhatsApp
@@ -31,7 +31,7 @@ export default class ContactSection extends React.Component {
                     </svg>
                   </Link>
                   )} 
-                  </p>
+                  
                 </div>
               </div>
             </section>
