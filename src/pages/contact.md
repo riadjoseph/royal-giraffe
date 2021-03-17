@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     address: 'Saint-Germain-en-Laye, France'
-    phone: lorem-ipsum
+    phone: +33 6 29 15 98 58
     email: lorem-ipsum
     mapUrl: lorem-ipsum
     type: contact_section
