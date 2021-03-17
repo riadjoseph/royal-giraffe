@@ -8,7 +8,7 @@ sections:
     headline: We are WebForGood
     subtitle: >
       Hi, my name is Riad and I work with 2 colleagues to bring tried and tested
-      ideas to small business owners like you.\<br>
+      ideas to small business owners like you.
 
 
       We love SEO ... we also love web & app development, but what we care about
