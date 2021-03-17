@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '495'
+price: '695'
 title: Full SEO Audit
 description: >-
   A full SEO audit for your web site, whether a content only site or e-commerce,
