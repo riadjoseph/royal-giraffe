@@ -48,7 +48,7 @@ sections:
           the meaning of life? <br /> A: We’re not quite sure. But building
           useful products with people we love feels meaningful enough.
   - type: contact_section
-    image: images/Ask-WebForGood-SEO.png
+    image: images/riad-profile-in-garden.jpg
     section_id: contact_section
     address: 'Saint-Germain-en-Laye, France'
     phone: +33.6.29.15.98.58
