@@ -138,6 +138,7 @@
   &__contact-email {
     grid-row: 1;
     grid-column: 3;
+    margin-bottom: 1px;
   }
 
   &__map-link {
@@ -151,7 +152,7 @@
     grid-column: 2;
     width: 1px;
     background-color: $color_dark;
-    opacity: 0.5;
+    opacity: 0.6;
     margin-right: $spacing--unit*8;
     margin-left: $spacing--unit*8;
   }
