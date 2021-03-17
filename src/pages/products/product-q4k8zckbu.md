@@ -7,6 +7,7 @@ order: 0
 section: Store
 featured: false
 template: product
+category: src/pages/category/summer.md
 ---
 ## Lorem ipsum
 
