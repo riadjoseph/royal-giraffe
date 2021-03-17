@@ -11,7 +11,7 @@ export default class ContactSection extends React.Component {
               {_.get(section, 'image', null) && (<img src={withPrefix(_.get(section, 'image', null))} alt="" className="faq__contact-image"/>)}
               <div className="faq__contact-text-container">
                 <p className="faq__contact-subtitle">You might have questions along the lines of "what happens now", "how do I go about this" ...<br/> Let's have a chat.</p>
-                <div className="faq__contact-info-container">
+                <br></br><div className="faq__contact-info-container">
                   <p className="faq__contact-telephone">{_.get(section, 'phone', null)}</p>
                   <p className="faq__contact-email">{_.get(section, 'email', null)}</p>
                   <div className="faq__seperator" />
