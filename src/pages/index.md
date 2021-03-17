@@ -46,7 +46,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: 15 years of online product management at your service
     subtitle: à partir de €149.99
     image: images/promo.jpg
     cta:
