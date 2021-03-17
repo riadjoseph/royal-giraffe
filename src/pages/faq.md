@@ -53,7 +53,7 @@ sections:
     section_id: contact_section
     address: 'Saint-Germain-en-Laye, France'
     phone: +33.6.29.15.98.58
-    email: geeks@snipcart.com
+    email: riad@webforgood.fr
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
 ---
