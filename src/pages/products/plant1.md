@@ -3,7 +3,7 @@ id: '1'
 price: '495'
 title: Audit SEO - 5 jours
 description: >-
-  A full SEO audit for your web site, whether a content only site or e-commerce, dans le but
+  A full SEO audit for your web site, whether a content only site or e-commerce, during which we will identify 
   d'identifier les points forts et les challenges actuels, et mettre en place un
   plan d'action avec son budget, pour atteindre les objectifs de votre
   entreprise.
