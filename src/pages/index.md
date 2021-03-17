@@ -5,12 +5,10 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    content: >
-      # Votre partenaire SEO pour une croissance durable
+    content: |
+      # An SEO partner for a sustainable growth of your business
 
-
-      Notre objectif commun : améliorer la visibilité de votre business et son
-      taux de conversion.
+      Our common goal: Enhance your visibility and conversion rates.
     actions:
       - title: Services
         url: /store
