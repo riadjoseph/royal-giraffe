@@ -22,7 +22,6 @@ export default class ContactSection extends React.Component {
                   </Link>
                   )} 
                   <div className="faq__seperator" />
-                 <br/>
                   {_.get(section, 'mapUrl', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'mapUrl', null)}>
                     Send a WhatsApp
