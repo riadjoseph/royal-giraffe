@@ -34,7 +34,7 @@ export default class ContactSection extends React.Component {
     <label>Email <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>Message <input type="email" name="email" /></label>
   </p>
   <p>
     <button type="submit">Send</button>
