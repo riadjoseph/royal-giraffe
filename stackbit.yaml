@@ -360,7 +360,7 @@ models:
         name: image
         label: Image
       - type: string
-        name: address
+        name: calendly
         label: Address
       - type: string
         name: phone
