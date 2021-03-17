@@ -2,7 +2,7 @@
 id: Analytics and Tagging
 title: Tag Manager
 description: Google Analytics & Tag Manager
-price: lorem-ipsum
+price: 195/session (from)
 order: 0
 section: Store
 featured: false
