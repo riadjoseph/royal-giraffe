@@ -20,6 +20,7 @@ sections:
             - US shipping will take between 3 to 5 business days.
             - International shipping will take between 5 and 10 business days.
             - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+        question: What is SEO?
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
