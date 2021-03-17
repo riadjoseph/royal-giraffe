@@ -6,10 +6,9 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are WebForGood
-    subtitle: >+
-      Hi, my name is Riad and I work with 2 colleagues to bring our ideas to
-      small business owners like you.
-
+    subtitle: >
+      Hi, my name is Riad and I work with 2 colleagues to bring tried and tested
+      ideas to small business owners like you.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
