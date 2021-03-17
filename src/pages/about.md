@@ -15,9 +15,8 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: Why should you work with us
-        description: >
-          ... we also love web & app development, but what we care about the
-          most is results for our clients. There's nothing more rewarding. 
+        description: |
+          It's a mindset thing, but also experience, methods and results. 
         image: images/my-profile-webforgood.jpg
       - title: Why should you work with us
         description: >-
