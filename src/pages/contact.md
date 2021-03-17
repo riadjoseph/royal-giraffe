@@ -7,7 +7,7 @@ sections:
     address: 'Saint-Germain-en-Laye, Yvelines, France'
     phone: +33 6 29 15 98 58
     email: riad@webforgood.fr
-    mapUrl: lorem-ipsum
+    mapUrl: 'https://wa.me/33629159858'
     type: contact_section
 template: advanced
 ---
