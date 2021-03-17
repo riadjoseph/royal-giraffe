@@ -1,7 +1,7 @@
 ---
 id: '6'
-price: 500/month (from)
-title: Content SEO
+price: 495/month (from)
+title: Content SEO plan
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg

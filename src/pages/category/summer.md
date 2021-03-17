@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: MARKETING
 order: 4
 section: Store
 template: category

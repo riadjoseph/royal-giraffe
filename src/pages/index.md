@@ -5,12 +5,10 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    content: >
-      # Votre partenaire SEO pour une croissance durable
+    content: |
+      # An SEO partner for a sustainable growth of your business
 
-
-      Notre objectif commun : améliorer la visibilité de votre business et son
-      taux de conversion.
+      Our common goal: Enhance your visibility and conversion rates.
     actions:
       - title: Services
         url: /store
@@ -48,9 +46,9 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: à partir de €149.99
-    image: images/promo.jpg
+    title: 15 years of online product management at your service
+    subtitle: 'Let''s build, rank and convert.'
+    image: images/Riad-entrepreneur.com-event.jpg
     cta:
       title: Discover
       url: /store

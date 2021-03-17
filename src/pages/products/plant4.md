@@ -1,7 +1,7 @@
 ---
 id: '4'
-price: '199'
-title: Prepare & Plan
+price: 199/session (from)
+title: SEO for Travel Business
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
 default_original_image: images/plant4-lg.jpg

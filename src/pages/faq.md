@@ -4,56 +4,78 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
-    headline: Behold our FAQ
-    subtitle: >-
+    background_image: images/button-arrow.svg
+    headline: Frequently Asked
+    subtitle: >
       All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+      frequently asked questions.
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How long does shipping take?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+      - answer: >
+          Now that’s a frequent one all right. SEO stands for Search Engine
+          Optimization. Take as an example the last time you looked for
+          something on Google, Yahoo, Bing, Baidoo, Yandex, DuckDuckGo, Qwant
+          etc, you get a list of listings that we call results. These results
+          are calculated by the search engine depending on the search query of
+          your potential customer... and which website the search engine thinks
+          are most relevant to serve the user.
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
-      - question: How do refunds and returns work?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
 
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
-      - question: How do you handle sensitive customer information?
-        answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
-      - question: Rapid-fire questions
-        answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> Q: Why did you build a
-          theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
-          opening up the JAMstack to more developers. Plus, we trust these
-          folks. [Read more about Stackbit](http://bit.ly/2YAvGix). <br /><br />
-          Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-          small, bootstrapped team of eight human beings. Michael might be a
-          robot, though. <br /><br /> Q: Why is Snipcart based in Québec City?
-          <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
-          the meaning of life? <br /> A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
+          *   So you'd want to be visible
+
+
+          *   Preferably but not necessarily on the first page
+
+
+          *   For that important query
+
+
+          *   You'd want your potential customer to click on your link
+
+
+          *   Then arrive to your page and get served their answer quickly (2
+          seconds)
+
+
+          *   And you'd want them to do an action like to stay on your website,
+          to buy something from you, or return on a next visit, or read
+          something or subscribe, etc.
+
+
+          So the more people do that, the better you will convert. And to reach
+          there, we implement a strategy that starts by auditing what you
+          already have.
+        question: What is SEO?
+      - question: How long does it take to start getting results?
+        answer: >
+          It depends. For example, little tweaks to a fairly large e-commerce
+          site that has been live for a while can bring in results within 1 to 3
+          weeks. For a brand new website, with little content, it can take
+          months. In a nutshell : 
+
+
+          *   One size does NOT fit all.
+
+          *   A typical scenario : Planning it takes 1-4 weeks, implementing the
+          first batch of enhancements (Urgent and important) takes 2-4 weeks,
+          measuring it is a full time and medium/long term activity.
+
+          *   But once implemented, SEO brings you the benefit way after the
+          implementation, and for years to come. Email me at riad@webforgood.fr
+          and we’ll talk about it all, no commitment whatsoever.
+      - question: Do you guarantee your SEO work?
+        answer: >
+          Yes and no. I'll explain: We guarantee what we control, and an
+          overnight change of algorithm is not one of them. If you face any SEO
+          who guarantees results 100%, ask more questions. 
+      - {}
   - type: contact_section
-    image: images/promo.jpg
+    image: images/riad-profile-in-garden.jpg
     section_id: contact_section
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
-    phone: +1-202-555-0112
-    email: geeks@snipcart.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    address: '49.59491, -65.58638'
+    phone: +33.6.29.15.98.58
+    email: riad@webforgood.fr
+    mapUrl: 'https://wa.me/33629159858'
 template: advanced
 ---

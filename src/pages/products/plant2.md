@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '99.00'
+price: '199.00'
 title: Google Search Console
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/plant2.jpg
