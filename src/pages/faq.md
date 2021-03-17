@@ -50,7 +50,7 @@ sections:
   - type: contact_section
     image: images/riad-profile-in-garden.jpg
     section_id: contact_section
-    address: 'https://g.page/ConsultantSEO?share'
+    address: '49.59491, -65.58638'
     phone: +33.6.29.15.98.58
     email: riad@webforgood.fr
     mapUrl: 'https://wa.me/33629159858'
