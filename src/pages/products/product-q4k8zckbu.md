@@ -8,6 +8,7 @@ section: Store
 featured: false
 template: product
 category: src/pages/category/summer.md
+default_thumbnail_image: images/website-audit.png
 ---
 ## Lorem ipsum
 
