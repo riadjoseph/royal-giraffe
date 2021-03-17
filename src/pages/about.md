@@ -22,9 +22,18 @@ sections:
         image: images/my-profile-webforgood.jpg
       - title: A little background
         description: >
-          We've worked with over 100 small businesses in French and English
-          during the past 2 years, and proud to say that 100% of them were very
-          satisfied with the results we produced. 
+          I stumbled on e-commerce and the web in general in 2007. Since then I
+          covered several grounds that fuel our strategies today, from customer
+          service, to sales, digital marketing, SEO, online product management
+          and management in general. 
+
+
+          I worked with large companies and started a couple of my own,
+          internationally. I've made mistakes and had fabulous wins, which will
+          play in our clients' favor to reach their business objectives. 
+
+
+          [Reach out](/contact) to talk about it all, and your project. 
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
