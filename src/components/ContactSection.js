@@ -27,7 +27,6 @@ export default class ContactSection extends React.Component {
                 </div>
               </div>
             </section>
-            
         );
     }
 }
