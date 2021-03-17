@@ -15,8 +15,10 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: Why should you work with us
-        description: |
-          It's a mindset thing, but also experience, methods and results. 
+        description: >
+          We've worked with over 100 small businesses in French and English
+          during the past 2 years, and proud to say that 100% of them are very
+          satisfied with the results we produced, our mindset and methods. 
         image: images/my-profile-webforgood.jpg
       - title: A little background
         description: >
