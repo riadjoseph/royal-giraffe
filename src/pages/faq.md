@@ -18,13 +18,14 @@ sections:
           something on Google, Yahoo, Bing, Baidoo, Yandex, DuckDuckGo, Qwant
           etc, you get a list of listings that we call results. These results
           are calculated by the search engine depending on the search query of
-          your potential customer. 
+          your potential customer... and which website the search engine thinks
+          are most relevant to serve the user.
 
 
           *   So you'd want to be visible
 
 
-          *   Preferably but not necessarily on the first page 
+          *   Preferably but not necessarily on the first page
 
 
           *   For that important query
@@ -39,7 +40,7 @@ sections:
 
           *   And you'd want them to do an action like to stay on your website,
           to buy something from you, or return on a next visit, or read
-          something or subscribe, etc. 
+          something or subscribe, etc.
 
 
           So the more people do that, the better you will convert. And to reach
