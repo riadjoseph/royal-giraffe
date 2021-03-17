@@ -44,7 +44,7 @@ sections:
     image: images/time-to-have-a-talk.jpg
     cta:
       title: Let's talk
-      url: /store
+      url: /contact
       arrow: true
 template: advanced
 ---
