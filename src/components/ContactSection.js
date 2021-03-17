@@ -12,7 +12,7 @@ export default class ContactSection extends React.Component {
               <div className="faq__contact-text-container">
                 <h6 className="faq__contact-title">You might have questions or something along the line "what happens when"... <br/> Let's have a chat.</h6>
                 <div className="faq__contact-info-container">
-                  <Lip className="faq__contact-address">{_.get(section, 'address', null)}</p>
+                  <Link className="faq__contact-address">{_.get(section, 'address', null)}</p>
                   <p className="faq__contact-telephone">{_.get(section, 'phone', null)}</p>
                   <p className="faq__contact-email">{_.get(section, 'email', null)}</p>
                   <div className="faq__seperator" />
