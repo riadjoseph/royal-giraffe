@@ -48,13 +48,22 @@ sections:
           already have.
         question: What is SEO?
       - question: How long does it take to start getting results?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
+        answer: >
+          It depends. For example, little tweaks to a fairly large e-commerce
+          site that has been live for a while can bring in results within 1 to 3
+          weeks. For a brand new website, with little content, it can take
+          months. In a nutshell : 
 
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+
+          *   One size does NOT fit all.
+
+          *   A typical scenario : Planning it takes 1-4 weeks, implementing the
+          first batch of enhancements (Urgent and important) takes 2-4 weeks,
+          measuring it is a full time and medium/long term activity.
+
+          *   But once implemented, SEO brings you the benefit way after the
+          implementation, and for years to come. Email me at riad@webforgood.fr
+          and we’ll talk about it all, no commitment whatsoever.
       - question: How do you handle sensitive customer information?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
