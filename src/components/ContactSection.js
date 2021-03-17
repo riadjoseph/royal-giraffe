@@ -19,10 +19,6 @@ export default class ContactSection extends React.Component {
                   {_.get(section, 'addressURL', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'addressURL', null)}>
                     Calendly Call Planner
-                    <svg width="34" height="34" viewBox="0 0 34 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M73.77,22.501h-27.5c-0.69,0-1.25-0.56-1.25-1.25v-2.5c0-0.69,0.56-1.25,1.25-1.25h27.5
-		c0.69,0,1.25,0.56,1.25,1.25v2.5C75.02,21.941,74.46,22.501,73.77,22.501z" fill="white"/>
-                    </svg>
                   </Link>
                   )}
                   <br/>
