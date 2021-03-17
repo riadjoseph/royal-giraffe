@@ -65,11 +65,10 @@ sections:
           implementation, and for years to come. Email me at riad@webforgood.fr
           and we’ll talk about it all, no commitment whatsoever.
       - question: Do you guarantee your SEO work?
-        answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
+        answer: >
+          Yes and no. I'll explain: We guarantee what we control, and an
+          overnight change of algorithm is not one of them. If you face any SEO
+          who guarantees results 100%, ask more questions. 
       - question: Rapid-fire questions
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
