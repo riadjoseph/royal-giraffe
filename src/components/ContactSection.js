@@ -32,7 +32,7 @@ export default class ContactSection extends React.Component {
                   )} 
                   <div/>
                 </div>
-              </div>
+             
             </section>
         );
     }
