@@ -14,7 +14,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: Why should you work with us
+      - title: Why work with us
         description: >
           We've worked with over 100 small businesses in French and English
           during the past 2 years, and proud to say that 100% of them are very
