@@ -1,6 +1,6 @@
 ---
 id: '8'
-price: '50.00'
+price: 195/week (from)
 title: 'Google & Facebook: Ads + Analytics'
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/plant8.jpg
