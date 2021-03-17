@@ -19,12 +19,10 @@ sections:
           It's a mindset thing, but also experience, methods and results. 
         image: images/my-profile-webforgood.jpg
       - title: A little background
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          We've worked with over 100 small businesses in French and English
+          during the past 2 years, and proud to say that 100% of them were very
+          satisfied with the results we produced. 
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
