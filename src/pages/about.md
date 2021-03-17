@@ -43,7 +43,7 @@ sections:
       manner
     image: images/time-to-have-a-talk.jpg
     cta:
-      title: Discover
+      title: Let's talk
       url: /store
 template: advanced
 ---
