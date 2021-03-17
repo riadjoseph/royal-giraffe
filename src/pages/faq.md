@@ -12,14 +12,39 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+      - answer: >
+          Now that’s a frequent one all right. SEO stands for Search Engine
+          Optimization. Take as an example the last time you looked for
+          something on Google, Yahoo, Bing, Baidoo, Yandex, DuckDuckGo, Qwant
+          etc, you get a list of listings that we call results. These results
+          are calculated by the search engine depending on the search query of
+          your potential customer. 
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+
+          *   So you'd want to be visible
+
+
+          *   Preferably but not necessarily on the first page 
+
+
+          *   For that important query
+
+
+          *   You'd want your potential customer to click on your link
+
+
+          *   Then arrive to your page and get served their answer quickly (2
+          seconds)
+
+
+          *   And you'd want them to do an action like to stay on your website,
+          to buy something from you, or return on a next visit, or read
+          something or subscribe, etc. 
+
+
+          So the more people do that, the better you will convert. And to reach
+          there, we implement a strategy that starts by auditing what you
+          already have.
         question: What is SEO?
       - question: How do refunds and returns work?
         answer: >-
