@@ -14,7 +14,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love SEO
+      - title: Why should you work with us
         description: >
           ... we also love web & app development, but what we care about the
           most is results for our clients. There's nothing more rewarding. 
