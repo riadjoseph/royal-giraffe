@@ -45,5 +45,6 @@ sections:
     cta:
       title: Let's talk
       url: /store
+      arrow: true
 template: advanced
 ---
