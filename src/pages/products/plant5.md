@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: '229'
+price: 595/month (from)
 title: E-commerce SEO plan
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
