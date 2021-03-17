@@ -31,7 +31,7 @@ export default class ContactSection extends React.Component {
                     </svg>
                   </Link>
                   )} 
-                  </div>
+                  </p>
                 </div>
               </div>
             </section>
