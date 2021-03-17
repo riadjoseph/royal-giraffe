@@ -10,7 +10,7 @@ export default class ContactSection extends React.Component {
             <section className="content__row content__row--full-width content__row--mb-0  faq__contact"  data-id={_.get(section, 'section_id', null)}>
               {_.get(section, 'image', null) && (<img src={withPrefix(_.get(section, 'image', null))} alt="" className="faq__contact-image"/>)}
               <div className="faq__contact-text-container">
-                <h6 className="faq__contact-title">You might have questions or something along the line "what happens when"... <br/> Let's have a chat.</h6>
+                <p className="faq__contact-title">You might have questions or something along the line "what happens when"... <br/> Let's have a chat.</h6>
                 <div className="faq__contact-info-container">
                   <p className="faq__contact-telephone">{_.get(section, 'phone', null)}</p>
                   <p className="faq__contact-email">{_.get(section, 'email', null)}</p>
