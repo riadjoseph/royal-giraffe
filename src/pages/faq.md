@@ -50,7 +50,7 @@ sections:
   - type: contact_section
     image: images/riad-profile-in-garden.jpg
     section_id: contact_section
-    address: 'Saint-Germain-en-Laye, France'
+    address: 'https://g.page/ConsultantSEO?share'
     phone: +33.6.29.15.98.58
     email: riad@webforgood.fr
     mapUrl: 'https://wa.me/33629159858'
