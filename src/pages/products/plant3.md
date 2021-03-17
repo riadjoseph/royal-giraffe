@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '199'
+price: 199/session (from)
 title: E-commerce Coaching Hours
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/plant3.jpg
