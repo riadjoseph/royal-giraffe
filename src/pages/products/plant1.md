@@ -2,9 +2,7 @@
 id: '1'
 price: '495'
 title: Audit SEO - 5 jours
-description: >-
-  Un audit SEO complet de votre site web, vitrine ou ecommerce. Pourquoi : dans
-  le b
+description: 'Un audit SEO complet de votre site web, vitrine ou ecommerce.'
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
