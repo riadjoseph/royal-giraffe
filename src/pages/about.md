@@ -4,44 +4,48 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    background_image: images/button-arrow.svg
+    headline: We are WebForGood
+    subtitle: >
+      Hi, my name is Riad and I work with 2 colleagues to bring tried and tested
+      ideas to small business owners like you. We love SEO, web & app
+      development, but what we care about the most is the result for our
+      clients. There's nothing more rewarding.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love plants
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
-        image: images/nan_talk.jpg
-      - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
-        image: images/team.jpg
+      - title: Why work with us
+        description: >
+          Based in France, we've worked with over 100 small businesses in French
+          and English during the past 2 years.  We're proud that 100% of them
+          are very satisfied with the results we produced, our mindset and
+          methods.
+        image: images/my-profile-webforgood.jpg
+      - title: A little background
+        description: >
+          I stumbled on e-commerce and the web in general in 2007. Since then I
+          covered several grounds that fuel our strategies today, from customer
+          service, to sales, digital marketing, SEO, online product management
+          and management in general.
+
+
+          I worked with large companies and started a couple of my own,
+          internationally. I've made mistakes and had fabulous wins, which will
+          play in our clients' favor to reach their business objectives.
+
+
+          [Reach out](/contact) to talk about it all, and your project.
+        image: images/example-client-growth.png
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
+    title: Get a fresh perspective
+    subtitle: >-
+      Search Engine Optimization (SEO) can lift your growth in a sustainable
+      manner.
+    image: images/time-to-have-a-talk.jpg
     cta:
-      title: Discover
-      url: /store
+      title: Let's talk
+      url: /contact
+      arrow: true
 template: advanced
 ---

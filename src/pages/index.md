@@ -5,9 +5,12 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
-    content: |-
-      # SEO & Web
-      Your very own dedicate SEO and Web Development Boutique Agency in Paris. 
+    content: >
+      # Votre partenaire SEO pour une croissance durable
+
+
+      Notre objectif commun : améliorer la visibilité de votre business et son
+      taux de conversion.
     actions:
       - title: Services
         url: /store

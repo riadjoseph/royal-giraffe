@@ -1,18 +1,18 @@
 ---
 id: '1'
-price: 395
+price: '495'
 title: Audit SEO - 5 jours
-description: 'Un audit SEO complet de votre site web, ecommerce ou web app.'
+description: >-
+  A full SEO audit for your web site, whether a content only site or e-commerce, during which we will identify current strengths and challenges,
+  and put in place an action plan along with its KPIs and budget, that will help you reach your business objectives.
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
 section: Store
 template: product
-default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/splendid-sunflower.jpg
+default_thumbnail_image: images/seo-audit.jpg
 ---
 # Audit SEO - 5 jours
 
-Un audit SEO complet de votre site web, ecommerce ou web app. 
-
-Vous apprendrez sur votre site quels sont les améliorations à faire au niveau du contenu, de la mise en page, l'expérience utilisateur et le SEO technique. 
+A complete audit of your website or e-commerce. We will touch on topics such as the target audience, layouts, design, user experience, keywords and content, and technical aspects. 
