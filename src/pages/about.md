@@ -39,7 +39,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: images/promo.jpg
+    image: images/time-to-have-a-talk.jpg
     cta:
       title: Discover
       url: /store
