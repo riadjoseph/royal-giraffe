@@ -1,6 +1,6 @@
 ---
 id: '7'
-price: '29'
+price: '295'
 title: Book A Live Mini Audit
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/plant7.jpg
