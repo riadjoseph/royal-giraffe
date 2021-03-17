@@ -1,6 +1,6 @@
 ---
 title: contact
-page_css_class: contact
+page_css_class: contacts
 white_header: false
 sections:
   - section_id: contacts
