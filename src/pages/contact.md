@@ -1,5 +1,5 @@
 ---
-title: contact
+title: contact WebForGood
 page_css_class: contacts
 white_header: false
 sections:
