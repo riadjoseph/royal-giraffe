@@ -52,7 +52,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: 'Saint-Germain-en-Laye, France'
-    phone: +1-202-555-0112
+    phone: +33.6.29.15.98.58
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
