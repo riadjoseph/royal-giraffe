@@ -1,7 +1,7 @@
 ---
 id: '1'
 price: '695'
-title: Full SEO Audit
+title: Full SEO Audit & Plan
 description: >-
   A full SEO audit for your web site, whether a content only site or e-commerce,
   during which we will identify current strengths and challenges, and put in
