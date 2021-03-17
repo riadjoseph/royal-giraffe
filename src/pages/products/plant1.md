@@ -1,10 +1,12 @@
 ---
 id: '1'
 price: '495'
-title: Audit SEO - 5 jours
+title: Full SEO Audit
 description: >-
-  A full SEO audit for your web site, whether a content only site or e-commerce, during which we will identify current strengths and challenges,
-  and put in place an action plan along with its KPIs and budget, that will help you reach your business objectives.
+  A full SEO audit for your web site, whether a content only site or e-commerce,
+  during which we will identify current strengths and challenges, and put in
+  place an action plan along with its KPIs and budget, that will help you reach
+  your business objectives.
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
