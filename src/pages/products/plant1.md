@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: 395
+price: '495'
 title: Audit SEO - 5 jours
 description: 'Un audit SEO complet de votre site web, ecommerce ou web app.'
 featured: true
