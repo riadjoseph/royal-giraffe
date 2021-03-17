@@ -26,7 +26,7 @@ export default class ContactSection extends React.Component {
                   )}
                 </div>
               </div>
-              <form style="" name="contact" netlify>
+              <form name="contact" netlify>
   <p> 
     <label>Name <input type="text" name="name" /></label>
   </p>
