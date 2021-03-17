@@ -20,5 +20,6 @@ sections:
     cta:
       title: Discover
       url: /store
+      arrow: true
 template: store
 ---
