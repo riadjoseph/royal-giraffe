@@ -4,7 +4,7 @@ price: 199/session (from)
 title: E-commerce Coaching Hours
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/e-commerce-client-hopping-site-to-site.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/successful-rosemary.jpg
 featured: false
 order: 3
 category: src/pages/category/cactuses.md
