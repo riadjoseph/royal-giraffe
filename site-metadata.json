@@ -39,7 +39,8 @@
         },
         {
             "title": "FAQ",
-            "url": "/contact"
+            "url": "/contact",
+            "arrow": true
         }
     ],
     "title": "WebForGood - Les Services"
