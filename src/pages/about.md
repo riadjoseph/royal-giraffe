@@ -38,7 +38,9 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Get a fresh perspective
-    subtitle: from $149.99
+    subtitle: >-
+      Search Engine Optimization can lift your business growth in a sustainable
+      manner
     image: images/time-to-have-a-talk.jpg
     cta:
       title: Discover
