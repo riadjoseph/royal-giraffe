@@ -64,7 +64,7 @@ sections:
           *   But once implemented, SEO brings you the benefit way after the
           implementation, and for years to come. Email me at riad@webforgood.fr
           and we’ll talk about it all, no commitment whatsoever.
-      - question: How do you handle sensitive customer information?
+      - question: Do you guarantee your SEO work?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
           am I right? Make sure you’re as transparent as possible with your data
