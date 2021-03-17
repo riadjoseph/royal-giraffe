@@ -1,7 +1,7 @@
 ---
 id: Analytics and Tagging
 title: Tag Manager
-description: lorem-ipsum
+description: Google Analytics & Tag Manager
 price: lorem-ipsum
 order: 0
 section: Store
