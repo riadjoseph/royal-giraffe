@@ -56,7 +56,6 @@ sections:
     section_id: promotion_section
     title: 15 years of online product management at your service
     subtitle: 'Let''s build, rank and convert.'
-    image: images/melodic-goat.png
     cta:
       title: Discover
       url: /store
