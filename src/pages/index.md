@@ -34,7 +34,7 @@ sections:
     testimonials:
       - author:
           name: Y.FOUED
-          location: 'Colorado, USA'
+          location: France
         text: >-
           “Riad est une personne très sérieuse et super compétente , j'ai eu une
           réponse très rapide a ma commande et il maîtrise parfaitement son
