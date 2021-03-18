@@ -45,6 +45,10 @@ sections:
         text: >-
           If you're looking for an SEO specialist, I highly recommend you hire
           Riad.
+      - text: lorem-ipsum
+        author:
+          name: lorem-ipsum
+          location: lorem-ipsum
   - type: promotion_section
     section_id: promotion_section
     title: 15 years of online product management at your service
