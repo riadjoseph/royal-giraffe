@@ -6,9 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: |
-      # An SEO partner for a sustainable growth of your business
+      # An SEO clerk for sustainable growth
 
-      Our common goal: Enhance your visibility and conversion rates.
+      Our common goal: Enhance your conversion rates.
     actions:
       - title: Services
         url: /store
