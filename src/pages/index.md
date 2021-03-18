@@ -33,7 +33,7 @@ sections:
     section_id: testimonials_section
     testimonials:
       - author:
-          name: John Dope
+          name: Y.FOUED
           location: 'Colorado, USA'
         text: >-
           “Riad est une personne très sérieuse et super compétente , j'ai eu une
