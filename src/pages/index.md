@@ -41,7 +41,7 @@ sections:
           sujet !! [...] ”
       - author:
           name: Hélène
-          location: Fra
+          location: UK
         text: >-
           “C'est un professionnel hors pair ! Aussi gentil que compétent. Je
           suis ravie de collaborer avec Riad. Vous pouvez le contacter les yeux
