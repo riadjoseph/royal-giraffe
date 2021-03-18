@@ -47,7 +47,7 @@ sections:
           Riad.
         author:
           name: Gail
-          location: lorem-ipsum
+          location: UK
   - type: promotion_section
     section_id: promotion_section
     title: 15 years of online product management at your service
