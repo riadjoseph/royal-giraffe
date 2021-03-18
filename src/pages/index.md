@@ -46,7 +46,7 @@ sections:
           If you're looking for an SEO specialist, I highly recommend you hire
           Riad.
         author:
-          name: lorem-ipsum
+          name: Gail
           location: lorem-ipsum
   - type: promotion_section
     section_id: promotion_section
