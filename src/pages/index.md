@@ -43,8 +43,9 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          “C'est un professionnel hors pair ! Aussi gentil que compétent. Je
+          suis ravie de collaborer avec Riad. Vous pouvez le contacter les yeux
+          fermés !”
   - type: promotion_section
     section_id: promotion_section
     title: 15 years of online product management at your service
