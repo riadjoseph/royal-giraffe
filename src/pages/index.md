@@ -40,8 +40,12 @@ sections:
           réponse très rapide a ma commande et il maîtrise parfaitement son
           sujet !! [...] ”
       - author:
-          name: Gail
-          location: UK
+          name: Hélène
+          location: France
+        text: >-
+          “Que dire. Une excellente découverte pour moi. J'ai été fasciné par sa
+          rigueur, ses conseils et sa disponibilité. En qq jours, Riad m'a
+          permis d'évoluer.”
       - text: >-
           If you're looking for an SEO specialist, I highly recommend you hire
           Riad.
@@ -52,7 +56,6 @@ sections:
     section_id: promotion_section
     title: 15 years of online product management at your service
     subtitle: 'Let''s build, rank and convert.'
-    image: images/Riad-entrepreneur.com-event.jpg
     cta:
       title: Discover
       url: /store
