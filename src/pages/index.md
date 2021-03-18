@@ -40,7 +40,7 @@ sections:
           réponse très rapide a ma commande et il maîtrise parfaitement son
           sujet !! [...] ”
       - author:
-          name: Hélène
+          name: gail
           location: UK
         text: >-
           If you're looking for an SEO specialist, I highly recommend you hire
