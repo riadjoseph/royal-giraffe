@@ -42,9 +42,6 @@ sections:
       - author:
           name: Gail
           location: UK
-        text: >-
-          If you're looking for an SEO specialist, I highly recommend you hire
-          Riad.
       - text: lorem-ipsum
         author:
           name: lorem-ipsum
