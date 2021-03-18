@@ -43,8 +43,8 @@ sections:
           name: Hélène
           location: UK
         text: >-
-          If you're looking for a web designer or SEO specialist, I highly
-          recommend you hire Riad.
+          If you're looking for an SEO specialist, I highly recommend you hire
+          Riad.
   - type: promotion_section
     section_id: promotion_section
     title: 15 years of online product management at your service
