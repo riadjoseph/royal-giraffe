@@ -40,7 +40,7 @@ sections:
           réponse très rapide a ma commande et il maîtrise parfaitement son
           sujet !! [...] ”
       - author:
-          name: Héle
+          name: Hélène
           location: UK
         text: >-
           “Que dire. Une excellente découverte pour moi. J'ai été fasciné par sa
