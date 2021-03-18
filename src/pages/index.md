@@ -40,7 +40,7 @@ sections:
           réponse très rapide a ma commande et il maîtrise parfaitement son
           sujet !! [...] ”
       - author:
-          name: Héle
+          name: Hélène
           location: 'VA, USA'
         text: >-
           “C'est un professionnel hors pair ! Aussi gentil que compétent. Je
