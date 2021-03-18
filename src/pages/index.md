@@ -56,7 +56,7 @@ sections:
     section_id: promotion_section
     title: 15 years of online product management at your service
     subtitle: 'Let''s build, rank and convert.'
-    image: images/Riad-Profile-Image.png
+    image: images/Riad-Profile-Img.png
     cta:
       title: Discover
       url: /store
