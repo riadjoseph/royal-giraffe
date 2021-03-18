@@ -42,6 +42,10 @@ sections:
       - author:
           name: Gail
           location: UK
+        text: >-
+          “Que dire. Une excellente découverte pour moi. J'ai été fasciné par sa
+          rigueur, ses conseils et sa disponibilité. En qq jours, Riad m'a
+          permis d'évoluer.”
       - text: >-
           If you're looking for an SEO specialist, I highly recommend you hire
           Riad.
