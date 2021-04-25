@@ -6,7 +6,7 @@ description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
 default_thumbnail_image: images/undraw_Mobile_marketing_re_p77p.svg
-default_original_image: images/plant5-lg.jpg
+default_original_image: images/undraw_Mobile_marketing_re_p77p.svg
 featured: true
 order: 5
 category: src/pages/category/bigplants.md
