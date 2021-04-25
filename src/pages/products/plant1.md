@@ -12,7 +12,7 @@ category: src/pages/category/bigplants.md
 section: Store
 template: product
 default_original_image: images/splendid-sunflower.jpg
-default_thumbnail_image: images/seo-audit.jpg
+default_thumbnail_image: images/undraw_teaching_f1cm.svg
 ---
 # Audit SEO - 5 jours
 
