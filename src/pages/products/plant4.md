@@ -3,7 +3,7 @@ id: '4'
 price: 199/session (from)
 title: SEO for Travel Business
 description: Maecenas pretium blandit ex id lobortis.
-default_thumbnail_image: images/plant4.jpg
+default_thumbnail_image: images/undraw_mobile_browsers_lib5.svg
 default_original_image: images/plant4-lg.jpg
 order: 4
 category: src/pages/category/cactuses.md
