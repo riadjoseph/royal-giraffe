@@ -1,5 +1,5 @@
 ---
-title: WebForGood - Les Services
+title: WebForGood - Services
 white_header: true
 sections:
   - type: hero_section
