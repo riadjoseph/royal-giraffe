@@ -12,6 +12,7 @@ sections:
       - title: Services
         url: /store
         arrow: true
+    background_image: images/header.jpg
   - type: featured_products_section
     section_id: SEO_section
     title: Services
