@@ -6,9 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: |
-      # An SEO clerk for sustainable growth
+      # An SEO clerk for your online business
 
-      Our common goal: Enhance your conversion rates.
+      Enhance your conversion rates starting today.
     actions:
       - title: Services
         url: /store
