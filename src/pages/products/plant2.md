@@ -4,7 +4,7 @@ price: '199.00'
 title: Google Search Console
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/undraw_Web_search_re_efla.svg
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/undraw_Web_search_re_efla.svg
 order: 2
 category: src/pages/category/cactuses.md
 section: Store
