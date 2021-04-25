@@ -1,6 +1,6 @@
 .footer {
   @include container-properties;
-  background-color: $color_dark;
+  background-color: $color_light;
 
   &__container { 
       @include container-item-properties;
