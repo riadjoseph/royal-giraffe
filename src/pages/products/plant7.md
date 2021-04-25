@@ -4,7 +4,7 @@ price: '295'
 title: Book A Live Mini Audit
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/undraw_Online_learning_re_qw08.svg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/undraw_Online_learning_re_qw08.svg
 order: 7
 category: src/pages/category/bigplants.md
 section: Store
