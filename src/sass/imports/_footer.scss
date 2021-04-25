@@ -1,6 +1,6 @@
 .footer {
   @include container-properties;
-  background-color: rgb(66, 64, 64);
+  background-color: rgb(15, 15, 15);
 
   &__container { 
       @include container-item-properties;
