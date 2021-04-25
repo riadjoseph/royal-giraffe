@@ -7,7 +7,7 @@ sections:
     content: |
       # An SEO clerk for your online business
 
-      Enhance your conversion rates starting today.
+      Enhance your conversion rates starting, today.
     actions:
       - title: Services
         url: /store
