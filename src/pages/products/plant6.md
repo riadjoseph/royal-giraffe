@@ -4,7 +4,7 @@ price: 495/month (from)
 title: Content SEO plan
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/undraw_content_team_3epn.svg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/undraw_content_team_3epn.svg
 order: 6
 category: src/pages/category/bigplants.md
 section: Store
