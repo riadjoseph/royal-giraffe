@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero_section
     content: |
-      # An SEO clerk for your online business
+      # Is Your Website Serving Your Business to its Full Potential? 
 
-      Enhance your conversion rates starting, today.
+      Enhance your conversion rates starting, today. 
     actions:
       - title: Services
         url: /store
