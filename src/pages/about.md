@@ -4,7 +4,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    headline: / WebForGood
+    headline: / WebForGood /
     subtitle: >
       Hi, my name is Riad and I work with 2 colleagues to bring tried and tested
       ideas to small business owners like you. 
