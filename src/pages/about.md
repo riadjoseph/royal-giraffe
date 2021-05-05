@@ -42,8 +42,8 @@ sections:
     section_id: promotion_section
     title: Get a fresh perspective
     subtitle: >-
-      Search Engine Optimization (SEO) can lift your growth in a sustainable
-      manner.
+      Search Engine Optimization (SEO) will lift your business in a sustainable
+      manner. Have you asked for your complimentary audit yet?
     image: images/time-to-have-a-talk.jpg
     cta:
       title: Let's talk
