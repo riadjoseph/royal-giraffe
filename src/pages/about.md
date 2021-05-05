@@ -8,9 +8,12 @@ sections:
     headline: We are WebForGood
     subtitle: >
       Hi, my name is Riad and I work with 2 colleagues to bring tried and tested
-      ideas to small business owners like you. We love SEO, web & app
-      development, but what we care about the most is the result for our
-      clients. There's nothing more rewarding.
+      ideas to small business owners like you. 
+
+
+      We love SEO, digital marketing and development; nevertheless, what we care
+      about the most is the result that we bring to our clients. There's nothing
+      more rewarding.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
