@@ -23,7 +23,7 @@
     text-align: center;
 
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 
     &__title {
         font-family: $font_family_primairy;
