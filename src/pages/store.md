@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Book 2 hours of SEO
-    subtitle: à partir de €149.99
+    subtitle: 'for '
     image: images/promo.jpg
     cta:
       title: Discover
