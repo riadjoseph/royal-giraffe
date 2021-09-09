@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Book 2 hours of SEO
-    subtitle: for €25
+    subtitle: for €25 only
     image: images/promo.jpg
     cta:
       title: Discover
