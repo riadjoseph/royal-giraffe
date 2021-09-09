@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: Book 2 hours of SEO live chat
+    title: Book 2 hours of SEO live chat and screenshare
     subtitle: for €25 only
     image: images/promo.jpg
     cta:
