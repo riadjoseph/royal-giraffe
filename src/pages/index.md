@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero_section
     content: |
-      # Is Your Website Fully Serving Your Business?
+      # Is Your Website Serving Your Business?
 
-      Enhance your conversion rates starting, today.
+      Enhance your visibility & conversion rates starting today.
     actions:
       - title: Services
         url: /store
