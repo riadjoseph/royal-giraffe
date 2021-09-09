@@ -15,6 +15,6 @@ default_original_image: images/undraw_teaching_f1cm.svg
 default_thumbnail_image: images/undraw_teaching_f1cm.svg
 price: ' 100'
 ---
-# Audit SEO - 5 jours
+# Audit SEO - 5 days
 
-A complete audit of your website or e-commerce. We will touch on topics such as the target audience, layouts, design, user experience, keywords and content, and technical aspects. 
+A complete audit of your website or e-commerce. We will touch on topics such as the target audience, layouts, design, user experience, keywords and content, and technical aspects.
