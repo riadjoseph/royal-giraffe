@@ -14,7 +14,7 @@ sections:
       - src/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Book 2 hours of SEO
     subtitle: à partir de €149.99
     image: images/promo.jpg
     cta:
