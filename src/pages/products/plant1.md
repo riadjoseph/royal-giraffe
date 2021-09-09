@@ -13,7 +13,7 @@ section: Store
 template: product
 default_original_image: images/undraw_teaching_f1cm.svg
 default_thumbnail_image: images/undraw_teaching_f1cm.svg
-price: ' 25'
+price: ' 100'
 ---
 # Audit SEO - 5 jours
 
