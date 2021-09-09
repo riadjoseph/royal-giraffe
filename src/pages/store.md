@@ -16,7 +16,7 @@ sections:
     section_id: promotion_section
     title: Book 2 hours of SEO live help
     subtitle: for €25 only
-    image: images/undraw_mobile_testing_reah.svg
+    image: images/undraw_All_the_data_re_hh4w.svg
     cta:
       title: Discover
       url: /store
