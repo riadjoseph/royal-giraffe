@@ -4,7 +4,6 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/button-arrow.svg
     headline: Frequently Asked
     subtitle: >
       All right, friends. Let’s do this. This section will cover basic,
