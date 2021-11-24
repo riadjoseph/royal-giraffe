@@ -64,7 +64,7 @@ sections:
     subtitle: 'We Build, Rank and Convert.'
     cta:
       title: Discover
-      url: /store
+      url: /contact
       arrow: false
 template: home
 ---
