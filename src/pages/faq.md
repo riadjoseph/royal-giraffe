@@ -8,6 +8,7 @@ sections:
     subtitle: >
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions.
+    background_image: images/undraw_mobile_testing_reah.svg
   - type: faq_section
     section_id: faq_section
     questions:
