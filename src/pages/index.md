@@ -63,7 +63,7 @@ sections:
     title: 15 years of online product management at your service
     subtitle: 'We Build, Rank and Convert.'
     cta:
-      title: Discover
+      title: COntact
       url: /contact
       arrow: false
 template: home
