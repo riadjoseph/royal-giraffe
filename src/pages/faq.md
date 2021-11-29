@@ -12,7 +12,7 @@ sections:
     section_id: faq_section
     questions:
       - answer: >
-          SEO stands for Search Engine Optimization. 
+          SEO stands for Search Engine Optimization.
 
 
           Take as an example the last time you looked for something on Google,
