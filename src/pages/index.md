@@ -22,14 +22,6 @@ sections:
       - src/pages/products/plant1.md
       - src/pages/products/plant3.md
       - src/pages/products/plant5.md
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: lorem-ipsum
-      arrow: false
-    type: promotion_section
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
