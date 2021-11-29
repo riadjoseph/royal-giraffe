@@ -12,13 +12,12 @@ sections:
     section_id: faq_section
     questions:
       - answer: >
-          Now that’s a frequent one all right. SEO stands for Search Engine
-          Optimization. Take as an example the last time you looked for
-          something on Google, Yahoo, Bing, Baidoo, Yandex, DuckDuckGo, Qwant
-          etc, you get a list of listings that we call results. These results
-          are calculated by the search engine depending on the search query of
-          your potential customer... and which website the search engine thinks
-          are most relevant to serve the user.
+          SEO stands for Search Engine Optimization. Take as an example the last
+          time you looked for something on Google, Yahoo, Bing, Baidoo, Yandex,
+          DuckDuckGo, Qwant etc, you get a list of listings that we call
+          results. These results are calculated by the search engine depending
+          on the search query of your potential customer... and which website
+          the search engine thinks are most relevant to serve the user.
 
 
           *   So you'd want to be visible
