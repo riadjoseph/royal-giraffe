@@ -41,9 +41,12 @@ sections:
           something or subscribe, etc.
 
 
-          So the more people do that, the better you will convert. And to reach
-          there, we implement a strategy that starts by auditing what you
-          already have.
+          So the more people convert, the better for your business and your
+          website in the eyes of a search engine. 
+
+
+          Reach out to us and [schedule a live complimentary
+          audit](https://calendly.com/webf) (yes, no commitment whatsoever).
         question: What is SEO?
       - question: How long does it take to start getting results?
         answer: >
