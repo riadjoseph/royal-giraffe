@@ -88,7 +88,7 @@ sections:
           questions to say the least.
       - {}
   - type: contact_section
-    image: images/riad-profile-in-garden.jpg
+    image: images/Riad-Profile-Img.png
     section_id: contact_section
     address: '49.59491, -65.58638'
     phone: +33.6.29.15.98.58
