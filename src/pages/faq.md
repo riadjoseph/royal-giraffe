@@ -12,12 +12,15 @@ sections:
     section_id: faq_section
     questions:
       - answer: >
-          SEO stands for Search Engine Optimization. Take as an example the last
-          time you looked for something on Google, Yahoo, Bing, Baidoo, Yandex,
-          DuckDuckGo, Qwant etc, you get a list of listings that we call
-          results. These results are calculated by the search engine depending
-          on the search query of your potential customer... and which website
-          the search engine thinks are most relevant to serve the user.
+          SEO stands for Search Engine Optimization. 
+
+
+          Take as an example the last time you looked for something on Google,
+          Yahoo, Bing, Baidoo, Yandex, DuckDuckGo, Qwant etc, you get a list of
+          listings that we call "results". These results are ranked by the
+          search engine depending on the search query of your potential
+          customer... and which website the search engine thinks is most
+          relevant to serve the user's intent.
 
 
           *   So you'd want to be visible
@@ -32,17 +35,19 @@ sections:
           *   You'd want your potential customer to click on your link
 
 
-          *   Then arrive to your page and get served their answer quickly (2
-          seconds)
+          *   Then arrive to your page and get served quickly (2-3 seconds page
+          load time on mobile ideally)
 
 
-          *   And you'd want them to do an action like to stay on your website,
-          to buy something from you, or return on a next visit, or read
-          something or subscribe, etc.
+          *   And you'd want them to take an action such as stay on your website
+          to read or watch something, to buy something, or return on a next
+          visit, or subscribe, etc.
+
+
 
 
           So the more people convert, the better for your business and your
-          website in the eyes of a search engine. 
+          website in the eyes of a search engine.
 
 
           Reach out to us and [schedule a live complimentary
