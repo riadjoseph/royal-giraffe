@@ -6,8 +6,8 @@ sections:
     section_id: header_section
     headline: Frequently Asked
     subtitle: >
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions.
+      This section covers basic and frequently asked questions from an SME
+      manager perspective.
   - type: faq_section
     section_id: faq_section
     questions:
