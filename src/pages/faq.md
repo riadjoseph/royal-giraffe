@@ -77,15 +77,18 @@ sections:
 
       - question: Do you guarantee your SEO work?
         answer: >
-          Yes and no. 
+          Yes and no.
 
 
           I'll explain: We guarantee what we control, and an overnight change of
-          the algorithm is not one of them. 
+          the algorithm is not one of them.
 
 
-          If you face a SEO expert who guarantees their results 100%, ask more
-          questions to say the least.
+          We just don't take shortcuts. 
+
+
+          If you face an SEO expert who guarantees their results, ask them more
+          questions (to say the least).
       - {}
   - type: contact_section
     image: images/Riad-Profile-Img.png
