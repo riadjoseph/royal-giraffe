@@ -361,7 +361,7 @@ models:
         label: Image
       - type: string
         name: address
-        label: Address
+        label: Booking
         URL: https://calendly.com/webf/fr-en
       - type: string
         name: phone
