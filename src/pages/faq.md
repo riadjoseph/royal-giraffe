@@ -90,6 +90,15 @@ sections:
           If you face an SEO expert who guarantees their results, ask them more
           questions (to say the least).
       - question: I found better prices elsewhere
+        answer: >
+          We work independently with no office rent to cover and no investors to
+          please, so we can keep our prices very affordable to small and medium
+          businesses; but if you found a better alternative with better prices
+          for your business you should probably go for it.  
+
+
+          We believe that this industry's main cost is time and experience. Two
+          things we offer abundantly to our customers.
   - type: contact_section
     image: images/Riad-Profile-Img.png
     section_id: contact_section
