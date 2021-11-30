@@ -89,7 +89,7 @@ sections:
 
           If you face an SEO expert who guarantees their results, ask them more
           questions (to say the least).
-      - {}
+      - question: I found better prices elsewhere
   - type: contact_section
     image: images/Riad-Profile-Img.png
     section_id: contact_section
