@@ -105,7 +105,7 @@
 
   &__contact-info-container {
     width: fit-content;
-    display: grid;
+    display: block;
     grid-template-columns: 200px 1fr;
     grid-template-rows: repeat(1fr, 2);
     @include smaller-than-tablet {
