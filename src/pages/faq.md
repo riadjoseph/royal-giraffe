@@ -54,13 +54,19 @@ sections:
           audit](https://calendly.com/webf) (yes, no commitment whatsoever).
         question: What is SEO?
       - question: How long does it take to start getting results?
-        answer: >+
-          It depends. For example, little tweaks to a fairly large e-commerce
-          site that has been live for a while can bring in results within 1 to 3
-          weeks, but even that is not a guarantee. 
+        answer: >
+          It depends. 
 
 
-          For a brand new website, with little content, it can take months. 
+          For example, little tweaks to a fairly large e-commerce site that has
+          been live for a while can bring in results within weeks, (but even
+          that is not a guarantee).
+
+
+          For a brand new website, with little content, it can take longer. 
+
+
+          The better you plan from the start, the easier the task. 
 
 
           In a nutshell :
@@ -70,11 +76,10 @@ sections:
 
           *   A typical scenario : Planning it takes 1-4 weeks, implementing the
           first batch of enhancements (Urgent and important) takes 2-4 weeks,
-          measuring it is a full time and medium/long term activity.
+          measuring and continuous enhancement is a medium/long term activity.
 
-          *   But once implemented, SEO enhancements bring you the benefit for
-          years to come. 
-
+          *   Once implemented, SEO enhancements bring you the benefit for years
+          to come.
       - question: Do you guarantee your SEO work?
         answer: >
           Yes and no.
