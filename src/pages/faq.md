@@ -55,7 +55,7 @@ sections:
         question: What is SEO?
       - question: How long does it take to start getting results?
         answer: >
-          It depends. 
+          It depends.
 
 
           For example, little tweaks to a fairly large e-commerce site that has
@@ -63,16 +63,16 @@ sections:
           that is not a guarantee).
 
 
-          For a brand new website, with little content, it can take longer. 
+          For a brand new website, with little content, it can take longer.
 
 
-          The better you plan from the start, the easier the task. 
+          The better you plan from the start, the easier the task.
 
 
           In a nutshell :
 
 
-          *   One size does NOT fit all.
+          *   One size does not fit all.
 
           *   A typical scenario : Planning it takes 1-4 weeks, implementing the
           first batch of enhancements (Urgent and important) takes 2-4 weeks,
