@@ -15,7 +15,7 @@ export default class ContactSection extends React.Component {
                 <br></br><div className="faq__contact-info-container">
                   <p className="faq__contact-telephone">{_.get(section, 'phone', null)}</p>
                   <p className="faq__contact-email">{_.get(section, 'email', null)}</p>
-                  <div className="faq__seperator" />
+                  
                   {_.get(section, 'addressURL', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'addressURL', null)}>
                     Call Planner
