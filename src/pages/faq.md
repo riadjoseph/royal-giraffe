@@ -107,7 +107,7 @@ sections:
   - type: contact_section
     section_id: contact_section
     address: 'https://calendly.com/webf'
-    phone: +33.6.29.15.98.58
+    phone: Tel or WhatsApp +33.6.29.15.98.58
     email: riad@webforgood.fr
     mapUrl: 'https://calendly.com/webf'
     image: images/Riad dubai.jpeg
