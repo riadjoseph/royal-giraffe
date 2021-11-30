@@ -29,7 +29,7 @@ export default class ContactSection extends React.Component {
                   //  Grab an appointment
                   //</Link>
                   )} 
-                  <div/>
+                  //<div/>
                 </div>
              </div>
             </section>
