@@ -110,6 +110,6 @@ sections:
     phone: +33.6.29.15.98.58
     email: riad@webforgood.fr
     mapUrl: 'https://calendly.com/webf'
-    image: images/Riad Profile Pic.JPG
+    image: images/Riad dubai.jpeg
 template: advanced
 ---
