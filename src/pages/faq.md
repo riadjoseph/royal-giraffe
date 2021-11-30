@@ -105,7 +105,7 @@ sections:
           We believe that this industry's main cost is time and experience. Two
           things we offer abundantly to our customers.
   - type: contact_section
-    image: images/Riad-Profile-Img.png
+    image: images/Riad-Profile-Image.png
     section_id: contact_section
     address: 'https://calendly.com/webf'
     phone: +33.6.29.15.98.58
