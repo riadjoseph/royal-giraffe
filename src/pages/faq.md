@@ -54,27 +54,32 @@ sections:
           audit](https://calendly.com/webf) (yes, no commitment whatsoever).
         question: What is SEO?
       - question: How long does it take to start getting results?
-        answer: >+
-          It depends. For example, little tweaks to a fairly large e-commerce
-          site that has been live for a while can bring in results within 1 to 3
-          weeks, but even that is not a guarantee. 
+        answer: >
+          It depends.
 
 
-          For a brand new website, with little content, it can take months. 
+          For example, little tweaks to a fairly large e-commerce site that has
+          been live for a while can bring in results within weeks, (but even
+          that is not a guarantee).
+
+
+          For a brand new website, with little content, it can take longer.
+
+
+          The better you plan from the start, the easier the task.
 
 
           In a nutshell :
 
 
-          *   One size does NOT fit all.
+          *   One size does not fit all.
 
           *   A typical scenario : Planning it takes 1-4 weeks, implementing the
           first batch of enhancements (Urgent and important) takes 2-4 weeks,
-          measuring it is a full time and medium/long term activity.
+          measuring and continuous enhancement is a medium/long term activity.
 
-          *   But once implemented, SEO enhancements bring you the benefit for
-          years to come. 
-
+          *   Once implemented, SEO enhancements bring you the benefit for years
+          to come.
       - question: Do you guarantee your SEO work?
         answer: >
           Yes and no.
@@ -89,9 +94,18 @@ sections:
 
           If you face an SEO expert who guarantees their results, ask them more
           questions (to say the least).
-      - {}
+      - question: I found better prices elsewhere
+        answer: >
+          We work independently with no office rent to cover and no investors to
+          please, so we can keep our prices very affordable to small and medium
+          businesses; but if you found a better alternative with better prices
+          for your business you should probably go for it.  
+
+
+          We believe that this industry's main cost is time and experience. Two
+          things we offer abundantly to our customers.
   - type: contact_section
-    image: images/Riad-Profile-Img.png
+    image: images/Riad-Profile-Image.png
     section_id: contact_section
     address: 'https://calendly.com/webf'
     phone: +33.6.29.15.98.58
