@@ -110,6 +110,6 @@ sections:
     phone: Tel or WhatsApp +33.6.29.15.98.58
     email: riad@webforgood.fr
     mapUrl: 'https://calendly.com/webf'
-    image: images/Riad Profile Pic copy.JPG
+    image: images/undraw_Mobile_marketing_re_p77p.svg
 template: advanced
 ---
