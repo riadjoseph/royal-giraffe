@@ -44,8 +44,6 @@ sections:
           visit, or subscribe, etc.
 
 
-
-
           So the more people convert, the better for your business and your
           website in the eyes of a search engine.
 
