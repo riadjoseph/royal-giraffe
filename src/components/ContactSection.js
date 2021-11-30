@@ -23,7 +23,7 @@ export default class ContactSection extends React.Component {
                   </Link>
                   )}
                   <br/>
-
+                  <div className="faq__seperator" />
                   {_.get(section, 'mapUrl', null) && (
                   <Link className="faq__map-link link link--filled link--reversed" to={_.get(section, 'mapUrl', null)}>
                     Grab an appointment
