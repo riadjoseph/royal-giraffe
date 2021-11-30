@@ -105,7 +105,6 @@ sections:
           We believe that this industry's main cost is time and experience. Two
           things we offer abundantly to our customers.
   - type: contact_section
-    image: images/assets_images_contact-webforgood-blacktext (1).png
     section_id: contact_section
     address: 'https://calendly.com/webf'
     phone: +33.6.29.15.98.58
