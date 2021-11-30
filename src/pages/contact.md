@@ -9,5 +9,6 @@ sections:
     email: 'Email: riad@webforgood.fr'
     mapUrl: 'https://calendly.com/webf'
     type: contact_section
+    image: images/Riad-Profile-Image.png
 template: advanced
 ---
